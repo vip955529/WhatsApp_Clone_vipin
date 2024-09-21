@@ -13,7 +13,9 @@ public class Users {
         this.lastMassage = lastMassage;
     }
 
-    public Users(){}
+    public Users(){
+
+    }
 
     //SignUp Constructor
 
